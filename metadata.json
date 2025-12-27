@@ -1,0 +1,7 @@
+{
+  "name": "BOMOKO JEUNESSE CONGO",
+  "description": "Plateforme numérique multifonctionnelle dédiée à la jeunesse congolaise pour l'emploi, la formation et l'entrepreneuriat.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
